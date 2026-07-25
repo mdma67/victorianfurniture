@@ -1,0 +1,547 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "ba7c211a892edc84e7ced0c013b1cfd0"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/heba-allam",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/heba-allam/index.html",
+        "type": "file",
+        "md5": "0ab0f2818cad2a73f3b99800bf1af8a1"
+    },
+    {
+        "path": "authors/heba-allam/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/heba-allam/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/heba-allam/page/2/index.html",
+        "type": "file",
+        "md5": "4a2c1a057d93abf7fa59520e94d32ba1"
+    },
+    {
+        "path": "authors/heba-allam/page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/heba-allam/page/3/index.html",
+        "type": "file",
+        "md5": "e11d4180598800a1a659201ca9dd933e"
+    },
+    {
+        "path": "authors/heba-allam/page/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/heba-allam/page/4/index.html",
+        "type": "file",
+        "md5": "a7cdaf133fda746ec0c766ba9ed485e2"
+    },
+    {
+        "path": "authors/heba-allam/page/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/heba-allam/page/5/index.html",
+        "type": "file",
+        "md5": "e5b234719d92d0da8416ddc47259d21b"
+    },
+    {
+        "path": "authors/heba-allam/page/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/heba-allam/page/6/index.html",
+        "type": "file",
+        "md5": "33d9fd6fe2750d46ef423171a6bfcaad"
+    },
+    {
+        "path": "authors/heba-allam/page/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/heba-allam/page/7/index.html",
+        "type": "file",
+        "md5": "c7f6c0f2b9211e7f52477667dbf965fd"
+    },
+    {
+        "path": "authors/heba-allam/page/8",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/heba-allam/page/8/index.html",
+        "type": "file",
+        "md5": "c08509faf5039d4f8773322bb10e946e"
+    },
+    {
+        "path": "baroque-vs-victorian-furniture-understanding-the-differences-between-two-luxury-european-design-styles.html",
+        "type": "file",
+        "md5": "7520e1dc1f8af5d63c4bfee79249ce9c"
+    },
+    {
+        "path": "bespoke-furniture-handcrafted-luxury-designs-created-for-exceptional-interiors.html",
+        "type": "file",
+        "md5": "fad60bed66815b80cb4fa129862394bf"
+    },
+    {
+        "path": "bnpl-furniture-luxury-furniture-financing-options-for-premium-homes.html",
+        "type": "file",
+        "md5": "85e2fa6541d84915ce3f90d1e526c607"
+    },
+    {
+        "path": "buy-furniture-pay-later-flexible-financing-options-for-luxury-home-furnishings.html",
+        "type": "file",
+        "md5": "06cfecbebba7e1163758cfdaa55d0d27"
+    },
+    {
+        "path": "buy-now-pay-later-furniture-luxury-furniture-financing-options-for-premium-homes.html",
+        "type": "file",
+        "md5": "cb287bf863baa34f65b850cb233d8083"
+    },
+    {
+        "path": "buy-now-pay-later-home-decor-flexible-financing-for-luxury-interiors.html",
+        "type": "file",
+        "md5": "379d16fba748439cdc95d606c1019b3a"
+    },
+    {
+        "path": "california-king-bedroom-sets-a-guide-to-luxury-master-suites-premium-materials-and-designer-furniture-collections.html",
+        "type": "file",
+        "md5": "66e8892d127c45ceeb11c63b77a2d3c0"
+    },
+    {
+        "path": "classic-french-furniture-discovering-european-heritage-artisan-craftsmanship-and-timeless-luxury-interior-design.html",
+        "type": "file",
+        "md5": "cfa1a48f75865971aa449b0c04165b17"
+    },
+    {
+        "path": "classic-french-furniture-styles-exploring-royal-heritage-artisan-craftsmanship-and-timeless-european-luxury-design.html",
+        "type": "file",
+        "md5": "3b28c910da7b3454391534b9a10848a1"
+    },
+    {
+        "path": "classic-french-style-furniture-european-heritage-artisan-craftsmanship-and-timeless-elegance-for-luxury-interiors.html",
+        "type": "file",
+        "md5": "22c718ab84f850d8bbd948d7fff9589e"
+    },
+    {
+        "path": "custom-furniture-bespoke-luxury-designs-crafted-for-exceptional-interiors.html",
+        "type": "file",
+        "md5": "bbd7617132d1ef4f1b1095cb87265fa0"
+    },
+    {
+        "path": "custom-made-furniture-bespoke-luxury-designs-crafted-for-exceptional-homes.html",
+        "type": "file",
+        "md5": "8ca7d1e6bac842b050042e6c6d584c41"
+    },
+    {
+        "path": "egyptian-furniture-ancient-heritage-artisan-craftsmanship-and-timeless-luxury-design-for-exceptional-interiors.html",
+        "type": "file",
+        "md5": "604a55dd93a2ca02648668d54d0ec079"
+    },
+    {
+        "path": "egyptian-style-furniture-ancient-inspiration-artisan-craftsmanship-and-timeless-luxury-design-for-modern-interiors.html",
+        "type": "file",
+        "md5": "c7afb49e9882f056254eb7a110f80ff6"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "d75f9938f8e8d665d2f71f684b18010a"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "a8ec71911253a79e74d6c7880e6cda6f"
+    },
+    {
+        "path": "french-classic-furniture-european-heritage-artisan-craftsmanship-and-timeless-luxury-design.html",
+        "type": "file",
+        "md5": "247905f7cc339ab5f1d218fad10228ff"
+    },
+    {
+        "path": "french-design-furniture-exploring-european-craftsmanship-timeless-elegance-and-luxury-interior-design.html",
+        "type": "file",
+        "md5": "1adfbf032411ade34a6d5f16c699d0c1"
+    },
+    {
+        "path": "french-inspired-furniture-bringing-european-heritage-artisan-craftsmanship-and-timeless-luxury-into-modern-american-interiors.html",
+        "type": "file",
+        "md5": "c12b54afa64ef629104bba2b2c40ad54"
+    },
+    {
+        "path": "french-luxury-furniture-european-heritage-artisan-craftsmanship-and-timeless-design-for-exceptional-american-homes.html",
+        "type": "file",
+        "md5": "e4e302c19629dc787d2aca9bee7d39e6"
+    },
+    {
+        "path": "french-style-furniture-a-guide-to-timeless-european-elegance-and-luxury-design.html",
+        "type": "file",
+        "md5": "800a2c2064184f4d22df18fa77cccaa0"
+    },
+    {
+        "path": "french-style-furniture-exploring-european-elegance-artisan-craftsmanship-and-timeless-luxury-design.html",
+        "type": "file",
+        "md5": "5ea8d1d64a0b0e5da06e4dc4930b9e32"
+    },
+    {
+        "path": "handmade-furniture-artisan-crafted-luxury-pieces-for-exceptional-interiors.html",
+        "type": "file",
+        "md5": "2d292b4db3391ec4e9fc3e8d38ea5cb1"
+    },
+    {
+        "path": "home-furniture-buy-now-pay-later-flexible-financing-options-for-luxury-interiors.html",
+        "type": "file",
+        "md5": "40b50b7698276fe12c9566a45ff94fe2"
+    },
+    {
+        "path": "homey-design-catalog-luxury-victorian-furniture-collections.html",
+        "type": "file",
+        "md5": "9c953e950c297c579b6b8285d62f806b"
+    },
+    {
+        "path": "homey-design-collections-luxury-furniture-styles-for-elegant-interiors.html",
+        "type": "file",
+        "md5": "de508d73afda6e859d7f0a1b624964fe"
+    },
+    {
+        "path": "homey-design-furniture-exploring-luxury-traditional-furniture-styles-quality-and-alternatives.html",
+        "type": "file",
+        "md5": "b7350503d74c0738c6ce7a90dd520573"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "de2c7463268440438b5ee61c5c5bf37a"
+    },
+    {
+        "path": "luxury-bedroom-furniture-sets-a-guide-to-designer-collections-premium-materials-and-elegant-master-suites.html",
+        "type": "file",
+        "md5": "9e5fbb078d0263fc774f3edc285ac110"
+    },
+    {
+        "path": "luxury-dining-tables-a-guide-to-designer-collections-premium-materials-and-elegant-dining-spaces.html",
+        "type": "file",
+        "md5": "36c29e9a73a0c7ea71499abfed76b991"
+    },
+    {
+        "path": "luxury-dressers-a-guide-to-designer-bedroom-storage-premium-materials-and-elegant-interiors.html",
+        "type": "file",
+        "md5": "88e7f15b16b175ca536dd066011149ff"
+    },
+    {
+        "path": "luxury-furniture-a-complete-guide-to-high-end-designs-craftsmanship-and-premium-interiors.html",
+        "type": "file",
+        "md5": "e579a3d08b6fcff87a9486651124b034"
+    },
+    {
+        "path": "luxury-handmade-furniture-artisan-crafted-designs-for-sophisticated-interiors.html",
+        "type": "file",
+        "md5": "553f1fa7e514b2140792158c337b7625"
+    },
+    {
+        "path": "luxury-sofa-sets-a-complete-guide-to-designer-comfort-premium-materials-and-elegant-living-spaces-2.html",
+        "type": "file",
+        "md5": "75c88cab85bc6059f338e16806c63fc9"
+    },
+    {
+        "path": "luxury-sofa-sets-a-complete-guide-to-designer-comfort-premium-materials-and-elegant-living-spaces.html",
+        "type": "file",
+        "md5": "6b006a093c138c6bd8e9443426269d0f"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/mobi.jpeg",
+        "type": "file",
+        "md5": "a249b10e7c5b6d0c48a7bc2c458dc553"
+    },
+    {
+        "path": "/media/website/original-51-1.jpeg",
+        "type": "file",
+        "md5": "e46f48af503f36e5c1f4cfab9da2669b"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/mobi-2xl.jpeg",
+        "type": "file",
+        "md5": "c606dab4d0b69f4cc7aeb3671f385844"
+    },
+    {
+        "path": "/media/website/responsive/mobi-lg.jpeg",
+        "type": "file",
+        "md5": "c606dab4d0b69f4cc7aeb3671f385844"
+    },
+    {
+        "path": "/media/website/responsive/mobi-md.jpeg",
+        "type": "file",
+        "md5": "c606dab4d0b69f4cc7aeb3671f385844"
+    },
+    {
+        "path": "/media/website/responsive/mobi-sm.jpeg",
+        "type": "file",
+        "md5": "d6768f23002b5a6f6669c2e53cc2a75a"
+    },
+    {
+        "path": "/media/website/responsive/mobi-xl.jpeg",
+        "type": "file",
+        "md5": "c606dab4d0b69f4cc7aeb3671f385844"
+    },
+    {
+        "path": "/media/website/responsive/mobi-xs.jpeg",
+        "type": "file",
+        "md5": "4deb5fabf13c4c0bb80415b640660f46"
+    },
+    {
+        "path": "/media/website/responsive/original-51-1-2xl.jpeg",
+        "type": "file",
+        "md5": "16579ce484e3789bbd688e5429fec3f5"
+    },
+    {
+        "path": "/media/website/responsive/original-51-1-lg.jpeg",
+        "type": "file",
+        "md5": "16579ce484e3789bbd688e5429fec3f5"
+    },
+    {
+        "path": "/media/website/responsive/original-51-1-md.jpeg",
+        "type": "file",
+        "md5": "16579ce484e3789bbd688e5429fec3f5"
+    },
+    {
+        "path": "/media/website/responsive/original-51-1-sm.jpeg",
+        "type": "file",
+        "md5": "2a267b0ee860e0c488bf0391f6a35e33"
+    },
+    {
+        "path": "/media/website/responsive/original-51-1-xl.jpeg",
+        "type": "file",
+        "md5": "16579ce484e3789bbd688e5429fec3f5"
+    },
+    {
+        "path": "/media/website/responsive/original-51-1-xs.jpeg",
+        "type": "file",
+        "md5": "1f55089b22a86dad5aea4f809c5a2468"
+    },
+    {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "3e8c489c6f1648361f1e1efd88875db5"
+    },
+    {
+        "path": "page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/3/index.html",
+        "type": "file",
+        "md5": "0b7fd0ea3ad0171d07db14957e3a5a96"
+    },
+    {
+        "path": "page/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/4/index.html",
+        "type": "file",
+        "md5": "731e15d722e18b2d2c211ffffb321dd8"
+    },
+    {
+        "path": "page/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/5/index.html",
+        "type": "file",
+        "md5": "9b6112b0c7366b734d398002042afc7f"
+    },
+    {
+        "path": "page/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/6/index.html",
+        "type": "file",
+        "md5": "72c7f21ebad9ea20c4d6c5bfb8cb14cd"
+    },
+    {
+        "path": "page/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/7/index.html",
+        "type": "file",
+        "md5": "8da06b99d06ed3d252bac4c9e3c2ffbc"
+    },
+    {
+        "path": "page/8",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/8/index.html",
+        "type": "file",
+        "md5": "7c98f20fa78c0fc8ab95709ab64c2241"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "91d116bb21a14def8c5e2ea27bb15893"
+    },
+    {
+        "path": "shop-now-pay-later-furniture-flexible-financing-for-luxury-home-furnishings.html",
+        "type": "file",
+        "md5": "2c9b43fcadcf51857534d3e795cba602"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "7e971ab98b0b069b8863fe60360e535e"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "b57523116c7c9713923520a22e79b5d8"
+    },
+    {
+        "path": "traditional-french-furniture-exploring-european-heritage-artisan-craftsmanship-and-timeless-luxury-for-sophisticated-interiors.html",
+        "type": "file",
+        "md5": "6b28c3b904e8fab9fec60a5f885692a6"
+    },
+    {
+        "path": "victorian-furniture-a-complete-guide-to-timeless-luxury-craftsmanship-and-design.html",
+        "type": "file",
+        "md5": "9d11e9ad162c1fbe2c0dc008409b23af"
+    },
+    {
+        "path": "victorian-style-furniture-the-complete-guide-to-timeless-luxury-interiors.html",
+        "type": "file",
+        "md5": "243c2ed78834da705216e6ed92645420"
+    },
+    {
+        "path": "why-us-homeowners-are-investing-in-homey-design.html",
+        "type": "file",
+        "md5": "81341909afdc91d5cbd0f8207c55446a"
+    }
+]

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://victorianfurniture.mdmahabur199905.workers.dev/sitemap.xml
